@@ -1,0 +1,3 @@
+[submodule "genscot-gwas"]
+	path = genscot-gwas
+	url = git@github.com:psychesystems/genscot-gwas.git
